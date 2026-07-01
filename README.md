@@ -3,8 +3,7 @@ Business Loan Approval Prediction System
 A Machine Learning powered web app that predicts whether a loan will be Approvedor Rejected based on financial details such as income, loan amount, CIBIL score, employment status, and assets.
 
 Live Demo
-Try the app here:  
- https://YOUR-STREAMLIT-LINK  
+Try the app here:   https://loan-approval-system-4n9i7nrftmp2gzjmqpsbxb.streamlit.app/
 
 Objective
 To build an end-to-end ML project that:
